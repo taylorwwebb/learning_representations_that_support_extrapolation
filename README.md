@@ -47,11 +47,9 @@ To evaluate these networks, run the following sommand:
 - [NumPy](https://numpy.org/)
 - [matplotlib](https://matplotlib.org/)
 - [colorlog](https://github.com/borntyping/python-colorlog)
-
 For VAEC dataset:
 - [Tensorflow 1.13.1](https://www.tensorflow.org/)
 - [h5py](http://docs.h5py.org/en/latest/)
 - [PIL](https://pillow.readthedocs.io/en/3.1.x/installation.html)
-
 For Dynamic Object Prediction Task and Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*:
 - [PyTorch](https://pytorch.org/)
