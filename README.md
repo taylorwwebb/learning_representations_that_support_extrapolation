@@ -4,7 +4,23 @@ Code for **Learning Representations that Support Extrapolation**.
 
 ## Visual Analogy Extrapolation Challenge (VAEC)
 
-The directory `./VAEC_dataset_and_models` contains code for generating the VAEC dataset, and code for all models used for this dataset.
+The directory `./VAEC_dataset_and_models` contains code for generating the VAEC dataset, and code for all models used for this dataset. To generate the VAEC dataset, navigate to `./VAEC_dataset_and_models/dset_gen/` and run the following command to generate the Translation Extrapolation Regime:
+```
+python3 ./VAEC_trans_extrap.py
+```
+and the following command to generate the Scale Extrapolation Regime:
+```
+python3 ./VAEC_scale_extrap.py
+```
+
+To train and evaluate any of the models described in the paper, simply run the corresponding the script in the `./VAEC_dataset_and_models/scripts/` directory. For instance, to train and evaluate a network with context normalization on the Translation Extrapolation Regime, navigate to `./VAEC_dataset_and_models/`, and run the following command:
+```
+./scripts/context_norm_trans_extrap.sh
+```
+Similarly, to train and evaluate a network with context normalization on the Scale Extrapolation Regime, run the following command:
+```
+./scripts/context_norm_scale_extrap.sh
+```
 
 ## Dynamic Object Prediction
 
