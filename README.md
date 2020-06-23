@@ -13,7 +13,7 @@ and the following command to generate the Scale Extrapolation Regime:
 python3 ./VAEC_scale_extrap.py
 ```
 
-To train and evaluate any of the models described in the paper, simply run the corresponding the script in the `./VAEC_dataset_and_models/scripts/` directory. For instance, to train and evaluate networks with context normalization on the Translation Extrapolation Regime, navigate to `./VAEC_dataset_and_models/`, and run the following command:
+To train and evaluate any of the models described in the paper, run the corresponding the script in the `./VAEC_dataset_and_models/scripts/` directory. For instance, to train and evaluate networks with context normalization on the Translation Extrapolation Regime, navigate to `./VAEC_dataset_and_models/`, and run the following command:
 ```
 ./scripts/context_norm_trans_extrap.sh
 ```
@@ -24,7 +24,10 @@ Similarly, to train and evaluate networks with context normalization on the Scal
 
 ## Dynamic Object Prediction
 
-The directory `./dynamic_object_prediction` contains code to generate the dynamic object prediction task, and code for all models used on this task.
+The directory `./dynamic_object_prediction` contains code to generate the dynamic object prediction task, and code for all models used on this task. To train and evaluate all models described in the paper, navigate to `./dynamic_object_prediction` and run the following command:
+```
+python3 ./main_script.py
+```
 
 ## Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*
 
