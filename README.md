@@ -12,5 +12,5 @@ The directory `./dynamic_object_prediction` contains code to generate the dynami
 
 ## Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*
 
-The directory `./Hill_et_al_visual_analogy_task` contains code for all models used on the dataset from [Learning to Make Analogies by Contrasting Abstract Relational Structure.](https://arxiv.org/abs/1902.00120)
+The directory `./Hill_et_al_visual_analogy_task` contains code for all models used on the dataset from [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120).
 
