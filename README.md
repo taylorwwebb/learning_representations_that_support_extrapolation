@@ -62,6 +62,6 @@ For simulations using Dynamic Object Prediction Task or Visual Analogy Task from
 
 Code for generating the VAEC dataset, and simulations using the VAEC dataset and Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure* was written by [Taylor Webb](https://github.com/taylorwwebb). 
 
-Code for the Dynamic Object Prediction Task was written by Zachary Dulberg. 
+Code for the Dynamic Object Prediction Task was written by [Zachary Dulberg](https://github.com/zdulbz). 
 
 Some of the code for simulations using the VAEC dataset was originally modified from code from [this repository](https://github.com/clvrai/Relation-Network-Tensorflow).
