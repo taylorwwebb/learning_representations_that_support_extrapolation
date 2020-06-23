@@ -10,7 +10,7 @@ The directory `./VAEC_dataset_and_models` contains code for generating the VAEC 
 
 The directory `./dynamic_object_prediction` contains code to generate the dynamic object prediction task, and code for all models used on this task.
 
-## Visual Analogy Task from 'Learning to Make Analogies by Contrasting Abstract Relational Structure'
+## Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*
 
 The directory `./Hill_et_al_visual_analogy_task` contains code for all models used on the dataset from [Learning to Make Analogies by Contrasting Abstract Relational Structure.](https://arxiv.org/abs/1902.00120)
 
