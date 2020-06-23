@@ -1,7 +1,5 @@
 # Learning Representations that Support Extrapolation
 
-Code for **Learning Representations that Support Extrapolation**.
-
 ## Visual Analogy Extrapolation Challenge (VAEC)
 
 The directory `./VAEC_dataset_and_models` contains code for generating the VAEC dataset, and code for all models used for this dataset. To generate the VAEC dataset, navigate to `./VAEC_dataset_and_models/dset_gen/` and run the following command to generate the Translation Extrapolation Regime:
