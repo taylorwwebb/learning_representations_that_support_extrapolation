@@ -64,4 +64,4 @@ Code for generating the VAEC dataset, and simulations using the VAEC dataset and
 
 Code for the Dynamic Object Prediction Task was written by Zachary Dulberg. 
 
-Some code for simulations using the VAEC dataset was originally modified from code from [this repository](https://github.com/clvrai/Relation-Network-Tensorflow).
+Some of the code for simulations using the VAEC dataset was originally modified from code from [this repository](https://github.com/clvrai/Relation-Network-Tensorflow).
