@@ -57,6 +57,7 @@ To generate VAEC dataset:
 
 For simulations using VAEC dataset:
 - [Tensorflow 1.13.1](https://www.tensorflow.org/)
+- [horovod](https://github.com/horovod/horovod)
 
 For simulations using Dynamic Object Prediction Task or Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*:
 - [PyTorch](https://pytorch.org/)
