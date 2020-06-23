@@ -48,10 +48,12 @@ To evaluate these networks, run the following sommand:
 - [matplotlib](https://matplotlib.org/)
 - [colorlog](https://github.com/borntyping/python-colorlog)
 
-For VAEC dataset:
-- [Tensorflow 1.13.1](https://www.tensorflow.org/)
+To generate VAEC dataset:
 - [h5py](http://docs.h5py.org/en/latest/)
 - [PIL](https://pillow.readthedocs.io/en/3.1.x/installation.html)
 
-For Dynamic Object Prediction Task and Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*:
+For simulations using VAEC dataset:
+- [Tensorflow 1.13.1](https://www.tensorflow.org/)
+
+For simulations using Dynamic Object Prediction Task or Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*:
 - [PyTorch](https://pytorch.org/)
