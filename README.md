@@ -41,7 +41,7 @@ To evaluate these networks, run the following sommand:
 ./source_targ_norm_eval.sh
 ```
 
-### Prerequisites
+## Prerequisites
 
 - Python 3
 - [NumPy](https://numpy.org/)
@@ -58,7 +58,7 @@ For simulations using VAEC dataset:
 For simulations using Dynamic Object Prediction Task or Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*:
 - [PyTorch](https://pytorch.org/)
 
-### Authorship
+## Authorship
 
 Code for generating the VAEC dataset, and simulations using the VAEC dataset and Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure* was written by [Taylor Webb](https://github.com/taylorwwebb). 
 
