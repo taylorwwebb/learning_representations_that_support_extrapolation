@@ -41,7 +41,7 @@ To evaluate these networks, run the following sommand:
 ./source_targ_norm_eval.sh
 ```
 
-## Prerequisites
+### Prerequisites
 
 - Python 3
 - [NumPy](https://numpy.org/)
