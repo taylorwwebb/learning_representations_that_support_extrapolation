@@ -2,7 +2,6 @@ import tensorflow as tf
 import tensorflow.contrib.slim as slim
 import numpy as np
 from util import log
-import pdb
 
 # 2D convolutional net
 def conv2d(input, kernel_sizes, N_channels, stride_sizes, padding='same',

@@ -1,7 +1,6 @@
 # Import modules
 import tensorflow as tf
 import numpy as np
-import pdb
 import os
 
 # Import methods

@@ -1,7 +1,6 @@
 import logging
 from colorlog import ColoredFormatter
 import os
-import pdb
 
 ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)

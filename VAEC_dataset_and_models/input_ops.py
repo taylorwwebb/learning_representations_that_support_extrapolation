@@ -1,7 +1,6 @@
 import numpy as np
 import tensorflow as tf
 from util import log
-import pdb
 
 class Dataset(object):
 

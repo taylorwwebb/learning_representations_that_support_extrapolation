@@ -5,7 +5,6 @@ from PIL import Image, ImageDraw
 import matplotlib.pyplot as plt
 import os
 import argparse
-import pdb
 import sys
 from itertools import product
 from collections import OrderedDict
