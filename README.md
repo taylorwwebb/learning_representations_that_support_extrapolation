@@ -28,11 +28,11 @@ The directory `./dynamic_object_prediction` contains code to generate the dynami
 
 ## Visual Analogy Task from *Learning to Make Analogies by Contrasting Abstract Relational Structure*
 
-The directory `./Hill_et_al_visual_analogy_task` contains code for all models used on the dataset from [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120).
+The directory `./LABC_visual_analogy_task` contains code for all models used on the dataset from [Learning to Make Analogies by Contrasting Abstract Relational Structure](https://arxiv.org/abs/1902.00120).
 
-The dataset can be downloaded from https://github.com/deepmind/abstract-reasoning-matrices. Download the extrapolation dataset (inside the `./analogies` directory). Create a directory inside `./Hill_et_al_visual_analogy_task/datasets/` called `extrapolation`, and place the files for the dataset in this directory.
+The dataset can be downloaded from https://github.com/deepmind/abstract-reasoning-matrices. Download the extrapolation dataset (inside the `./analogies` directory). Create a directory inside `./LABC_visual_analogy_task/datasets/` called `extrapolation`, and place the files for the dataset in this directory.
 
-To train and evaluate any of the models described in the paper, run the corresponding script. For instance, to train networks using source/target context normalization, navigate to `./Hill_et_al_visual_analogy_task/` and run the following command:
+To train and evaluate any of the models described in the paper, run the corresponding script. For instance, to train networks using source/target context normalization, navigate to `./LABC_visual_analogy_task/` and run the following command:
 ```
 ./source_targ_norm_train.sh
 ```
