@@ -13,7 +13,7 @@ and the following command to generate the Scale Extrapolation Regime:
 python3 ./VAEC_scale_extrap.py
 ```
 
-or, an already generated version of the dataset can be downloaded from [DataSpace](https://dataspace.princeton.edu/jspui/handle/88435/dsp01b8515r30h).
+An already generated version of the dataset can be downloaded from [DataSpace](https://dataspace.princeton.edu/jspui/handle/88435/dsp01b8515r30h).
 
 To train and evaluate any of the models described in the paper, run the corresponding the script in the `./VAEC_dataset_and_models/scripts/` directory. For instance, to train and evaluate networks with context normalization on the Translation Extrapolation Regime, navigate to `./VAEC_dataset_and_models/`, and run the following command:
 ```
