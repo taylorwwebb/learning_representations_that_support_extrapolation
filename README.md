@@ -1,6 +1,6 @@
 # Learning Representations that Support Extrapolation
 
-Code for the paper **Learning Representations that Support Extrapolation**.
+Code for the paper [Learning Representations that Support Extrapolation](https://arxiv.org/abs/2007.05059).
 
 ## Visual Analogy Extrapolation Challenge (VAEC)
 
